@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Blocks in a box/Minesweeper.Problems-Blocks_in_a_box.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Blocks in a box/Minesweeper.Problems-Blocks_in_a_box.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Blocks in a box/Minesweeper.Problems-Blocks_in_a_box.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Blocks in a box/Minesweeper.Problems-Blocks_in_a_box.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Blocks in a box/Minesweeper.Problems-Blocks_in_a_box.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Blocks in a box/Minesweeper.Problems-Blocks_in_a_box.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Game/Minesweeper.Problems-Board_game_basics__Game.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Game/Minesweeper.Problems-Board_game_basics__Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Game/Minesweeper.Problems-Board_game_basics__Game.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Game/Minesweeper.Problems-Board_game_basics__Game.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Game/Minesweeper.Problems-Board_game_basics__Game.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Game/Minesweeper.Problems-Board_game_basics__Game.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Player/Minesweeper.Problems-Board_game_basics__Player.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Player/Minesweeper.Problems-Board_game_basics__Player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Player/Minesweeper.Problems-Board_game_basics__Player.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Player/Minesweeper.Problems-Board_game_basics__Player.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Player/Minesweeper.Problems-Board_game_basics__Player.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Player/Minesweeper.Problems-Board_game_basics__Player.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cell/Minesweeper.Problems-Cell.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cell/Minesweeper.Problems-Cell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cell/Minesweeper.Problems-Cell.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cell/Minesweeper.Problems-Cell.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cell/Minesweeper.Problems-Cell.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cell/Minesweeper.Problems-Cell.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Companion/Minesweeper.Problems-Companion.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Companion/Minesweeper.Problems-Companion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Companion/Minesweeper.Problems-Companion.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Companion/Minesweeper.Problems-Companion.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Companion/Minesweeper.Problems-Companion.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Companion/Minesweeper.Problems-Companion.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Currencies/Minesweeper.Problems-Currencies.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Currencies/Minesweeper.Problems-Currencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Currencies/Minesweeper.Problems-Currencies.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Currencies/Minesweeper.Problems-Currencies.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Currencies/Minesweeper.Problems-Currencies.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Currencies/Minesweeper.Problems-Currencies.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Currency comparision/Minesweeper.Problems-Currency_comparision.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Currency comparision/Minesweeper.Problems-Currency_comparision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Currency comparision/Minesweeper.Problems-Currency_comparision.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Currency comparision/Minesweeper.Problems-Currency_comparision.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Currency comparision/Minesweeper.Problems-Currency_comparision.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Currency comparision/Minesweeper.Problems-Currency_comparision.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Delegation/Minesweeper.Problems-Delegation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Delegation/Minesweeper.Problems-Delegation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Delegation/Minesweeper.Problems-Delegation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Delegation/Minesweeper.Problems-Delegation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Delegation/Minesweeper.Problems-Delegation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Delegation/Minesweeper.Problems-Delegation.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix an error/Minesweeper.Problems-Fix_an_error.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix an error/Minesweeper.Problems-Fix_an_error.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix an error/Minesweeper.Problems-Fix_an_error.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix an error/Minesweeper.Problems-Fix_an_error.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix an error/Minesweeper.Problems-Fix_an_error.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix an error/Minesweeper.Problems-Fix_an_error.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix me/Minesweeper.Problems-Fix_me.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix me/Minesweeper.Problems-Fix_me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix me/Minesweeper.Problems-Fix_me.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix me/Minesweeper.Problems-Fix_me.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix me/Minesweeper.Problems-Fix_me.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix me/Minesweeper.Problems-Fix_me.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fridge/Minesweeper.Problems-Fridge.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fridge/Minesweeper.Problems-Fridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fridge/Minesweeper.Problems-Fridge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fridge/Minesweeper.Problems-Fridge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fridge/Minesweeper.Problems-Fridge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fridge/Minesweeper.Problems-Fridge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Last digit/Minesweeper.Problems-Last_digit.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Last digit/Minesweeper.Problems-Last_digit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Last digit/Minesweeper.Problems-Last_digit.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Last digit/Minesweeper.Problems-Last_digit.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Last digit/Minesweeper.Problems-Last_digit.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Last digit/Minesweeper.Problems-Last_digit.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Library/Minesweeper.Problems-Library.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Library/Minesweeper.Problems-Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Library/Minesweeper.Problems-Library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Library/Minesweeper.Problems-Library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Library/Minesweeper.Problems-Library.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Library/Minesweeper.Problems-Library.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Manager/Minesweeper.Problems-Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Manager/Minesweeper.Problems-Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Manager/Minesweeper.Problems-Manager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Manager/Minesweeper.Problems-Manager.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Manager/Minesweeper.Problems-Manager.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Manager/Minesweeper.Problems-Manager.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The rainbow order/Minesweeper.Problems-The_rainbow_order.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The rainbow order/Minesweeper.Problems-The_rainbow_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The rainbow order/Minesweeper.Problems-The_rainbow_order.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The rainbow order/Minesweeper.Problems-The_rainbow_order.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The rainbow order/Minesweeper.Problems-The_rainbow_order.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The rainbow order/Minesweeper.Problems-The_rainbow_order.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Minesweeper.Problems-Weather_comparison.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Minesweeper.Problems-Weather_comparison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Minesweeper.Problems-Weather_comparison.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Minesweeper.Problems-Weather_comparison.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Minesweeper.Problems-Weather_comparison.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Minesweeper.Problems-Weather_comparison.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6632
+status: Failed
+feedback:
+  message: "Compilation error\nmain.kt:13:15: error: unexpected tokens (use ';' to\
+    \ separate expressions on the same line)\n    find(this): Product\n          \
+    \    ^\nmain.kt:11:5: error: unresolved reference: Frige\nfun Frige.take(productName:\
+    \ String): Product {\n    ^\nmain.kt:15:1: error: a 'return' expression required\
+    \ in a function with a block body ('{...}')\n}\n^\nmain.kt:19:26: error: unresolved\
+    \ reference. None of the following candidates is applicable because of receiver\
+    \ type mismatch: \npublic fun [ERROR : Frige].take(productName: String): Product\
+    \ /* = Int */ defined in root package in file main.kt\n    val product = fridge.take(productName)\n\
+    \                         ^\n"
+  time: Sun, 04 Oct 2020 15:45:20 UTC
+record: -1
